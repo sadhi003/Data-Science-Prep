@@ -11,3 +11,6 @@ https://github.com/alexeygrigorev/data-science-interviews
  
 3. Try this github collections as well
  https://github.com/rbhatia46/Data-Science-Interview-Resources
+ 
+4. Github collection for MLOps
+ https://github.com/visenger/awesome-mlops
